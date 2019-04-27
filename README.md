@@ -1,10 +1,12 @@
 # app
 
-A new Flutter project.
+Aplicación de Calculadora con Flutter
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Este es el inicio de un programa de calculadora multiplataforma creado con Flutter por estudiantes de la Universidad Tecmilenio
+
+- [Tecmilenio.mx](https://tecmilenio.mx)
 
 A few resources to get you started if this is your first Flutter project:
 
